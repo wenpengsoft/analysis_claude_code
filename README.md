@@ -1,15 +1,6 @@
 # Claude Code 逆向工程研究仓库
 
-Fellow us on X: https://x.com/baicai003  
-注意：非100%准确！本仓库是我们研究学习“Agent模型公司是如何做Agent工程？”这件事的时候，一时兴起，借助claude code自行分析的claude code本身的混淆后代码，由于混淆代码很乱很散分析难度极大，CC多少会稍微有一些幻觉，该仓库仅作参考和学习！相关Claude code提示词在`work_doc_for_this`文件夹里，感兴趣的小伙伴可以自己复制提示词尝试复现！
 
-
-## 通知
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/10664e2e-36c8-4e29-b740-f5d06e71c1be" />
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/9813fca0-a6dd-4813-972e-f9bf6d62add8" />
-
-开源复现版会在这里发布：https://github.com/shareAI-lab/AgentKode  
-相关解析文章已经二次核对提取整理后发布在ShareAI lab的官方公众号上. 
 
 ## 📋 项目概述
 
